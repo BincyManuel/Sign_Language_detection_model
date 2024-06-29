@@ -1,0 +1,3 @@
+signs: https://www.kaggle.com/datasets/prathumarikeri/american-sign-language-09az
+
+video_signs: https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
